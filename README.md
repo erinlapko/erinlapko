@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @erinlapko
-- I created a personal website here: people.tamu.edu/~erinlapko
+- I created a personal website here: https://people.tamu.edu/~erinlapko/
 - 👀 I’m interested in data science and cybersecurity
 - 🌱 I’m currently learning operating systems
 - 💞️ I’m looking to collaborate on ...
