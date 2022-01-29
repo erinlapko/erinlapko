@@ -2,7 +2,6 @@
 - I created a personal website here: https://people.tamu.edu/~erinlapko/
 - 👀 I’m interested in data science and cybersecurity
 - 🌱 I’m currently learning operating systems
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me erinlapko@gmail.com
 
 
